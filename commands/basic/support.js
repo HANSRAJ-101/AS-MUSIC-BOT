@@ -15,10 +15,10 @@ module.exports = {
             
             await interaction.deferReply();
 
-            const supportServerLink = "https://discord.gg/xQF9f9yUEM";
-            const githubLink = "https://github.com/GlaceYT";
-            const websiteLink = "https://www.glaceyt.com";
-            const youtubeLink = "https://www.youtube.com/@GlaceYT";
+            const supportServerLink = "https://discord.gg/NVFeE5ygF2";
+            const githubLink = "https://discord.gg/NVFeE5ygF2";
+            const websiteLink = "https://discord.gg/NVFeE5ygF2";
+            const youtubeLink = "https://discord.gg/NVFeE5ygF2";
 
             const embedColor = parseInt(config.embedColor?.replace('#', '') || 'b300ff', 16);
             const components = [];
