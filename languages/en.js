@@ -70,7 +70,7 @@ module.exports = {
             },
             footer: {
                 version: "**Version 1.4** • Prime Music Bot",
-                developer: "Developed by GlaceYT / https://GlaceYT.com"
+                developer: "Developed by HANSRAJ / https://discord.gg/NVFeE5ygF2"
             },
             selectMenu: {
                 placeholder: "📂 Select a category to view commands...",
@@ -81,7 +81,7 @@ module.exports = {
             },
             buttons: {
                 supportServer: "Support Server",
-                github: "GitHub"
+                discord: "discord"
             }
         },
         categoryPage: {
@@ -103,12 +103,12 @@ module.exports = {
             },
             footer: {
                 version: "**Version 1.4** • Prime Music Bot",
-                developer: "Developed by GlaceYT / https://GlaceYT.com"
+                developer: "Developed by HANSRAJ / https://discord.gg/NVFeE5ygF2"
             },
             buttons: {
                 backToMain: "🏠 Back to Main Menu",
                 supportServer: "Support Server",
-                github: "GitHub"
+                discord: "discord"
             }
         },
         errors: {
@@ -176,7 +176,7 @@ module.exports = {
         },
         footer: {
             version: "**Version 1.4** • Prime Music Bot",
-            developer: "Developed by GlaceYT / https://GlaceYT.com"
+            developer: "Developed by HANSRAJ / https://discord.gg/NVFeE5ygF2"
         },
         errors: {
             title: "## ❌ Error",
@@ -192,7 +192,7 @@ module.exports = {
         header: {
             title: "# 📊 Bot Statistics",
             botName: "**{botName}** - Prime Music Bot",
-            developer: "Developed by GlaceYT / https://GlaceYT.com"
+            developer: "Developed by HANSRAJ / https://discord.gg/NVFeE5ygF2"
         },
         botInfo: {
             title: "## 📊 Bot Information",
@@ -229,7 +229,7 @@ module.exports = {
         },
         footer: {
             version: "**Version 1.4** • Prime Music Bot",
-            developer: "Developed by GlaceYT / https://GlaceYT.com"
+            developer: "Developed by HANSRAJ / https://discord.gg/NVFeE5ygF2"
         },
         errors: {
             title: "## ❌ Error",
@@ -272,11 +272,11 @@ module.exports = {
         },
         footer: {
             version: "**Version 1.4** • Prime Music Bot",
-            developer: "Developed by GlaceYT / https://GlaceYT.com"
+            developer: "Developed by HANSRAJ / https://discord.gg/NVFeE5ygF2"
         },
         buttons: {
             supportServer: "Support Server",
-            github: "GitHub",
+            discord: "discord",
             youtube: "YouTube"
         },
         errors: {
